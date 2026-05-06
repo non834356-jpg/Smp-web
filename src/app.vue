@@ -10,7 +10,7 @@ const currentPath = computed(() =>
 useHead({
   title: appConfig.sitename,
   htmlAttrs: {
-    lang: 'ja',
+    lang: 'en',
     prefix: 'og: https://ogp.me/ns#',
   },
   meta: [
