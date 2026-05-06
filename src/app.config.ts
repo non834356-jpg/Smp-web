@@ -10,17 +10,17 @@ import {
 } from '@heroicons/vue/20/solid'
 
 export default defineAppConfig({
-  sitename: 'jao Minecraft Server',
-  address: 'play.jaoafa.com',
-  tagline: 'ここで爆発します、あなたの可能性が。',
+  sitename: 'RUSHER MC',
+  address: 'rushermc.dapit.net:19100',
+  tagline: 'Your potential will explode here',
   navigation: [
     {
-      label: 'はじめての方へ',
+      label: 'for the first timers',
       to: '/guide',
       icon: markRaw(RocketLaunchIcon),
     },
     {
-      label: 'ドキュメント',
+      label: 'service specifications',
       to: '/docs',
       children: [
         {
@@ -88,7 +88,7 @@ export default defineAppConfig({
   ],
   social: {
     discord: {
-      url: 'https://discord.gg/jaoafa',
+      url: 'https://discord.gg/YVUJGZAJDE',
     },
     github: {
       url: 'https://github.com/jaoafa',
@@ -98,7 +98,7 @@ export default defineAppConfig({
       url: 'https://twitter.com/jaoafa',
     },
     youtube: {
-      url: 'https://www.youtube.com/channel/UC92wyJyhqXEMiEROeFJKNKg',
+      url: '',
     },
   },
   gtmId: 'GTM-58VVRGD',
