@@ -1,7 +1,7 @@
 ---
-title: jao Minecraft Server
+title: RUSHER Minecraft Server
 description:
-  ここで爆発します、あなたの可能性が。jao Minecraft Server は、Java版Minecraftのクリエイティブサーバです。やべーやつらが独特で最高にイカしたコニュニティをつくっています。
+  RUSHER MC a pro minecraft server made for rushers if u want to rush join us
 layout: top
 ---
 
