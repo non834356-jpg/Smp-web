@@ -1,5 +1,5 @@
 ---
-title: ドキュメント
+title: document
 layout: list
 ---
 
