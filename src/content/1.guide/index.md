@@ -1,5 +1,5 @@
 ---
-title: はじめての方へ
+title: For first time users
 layout: article
 ---
 
